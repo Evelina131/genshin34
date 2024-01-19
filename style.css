@@ -1,0 +1,89 @@
+body {
+    font-family: sans-serif;
+    background-color: #D8A1EC;
+    color: #56005D;
+}
+.logo{
+    width: 218px;
+    padding: 20px
+}
+header a{
+    background-color: #D98AE6;
+    margin: 10px;
+    padding: 13px;
+    border-radius: 12px;
+    text-decoration: none;
+    color: #56005D;
+    
+}
+header{
+    background-color: #92489E;
+}
+header nav{
+    float: right;
+    margin-top: 60px;
+    margin-right: 100px;
+    margin-left: 0px;
+}
+main h1{
+    text-align: center;
+}
+main img{
+    width: 300px;
+    border-radius: 30px;
+}
+.img{
+    width: 200px 
+}
+.X{
+    width: 300px
+}
+.B{
+    border: dashed 2px rgb(240, 186, 241);
+    border-radius: 10px;
+    padding: 10px;
+
+}
+main h1{
+    color: rgb(97, 24, 113)
+}
+.M{
+    color: rgb(10, 248, 248)
+}
+.L{
+    color: rgb(156, 163, 58)
+}
+.S{
+    color: rgb(2, 142, 0)
+}
+.F{
+    color: rgb(0, 149, 255)
+}
+.m{
+    color: rgb(10, 248, 248)
+}
+.l{
+    color: rgb(156, 163, 58)
+}
+.s{
+    color: rgb(2, 142, 0)
+}
+.f{
+    color: rgb(0, 149, 255)
+}
+footer{
+    background-color: rgba(97, 15, 122, 0.355);   
+}
+footer img{
+    width: 220px;
+}
+footer a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(132, 8, 163);
+    padding: 10px;
+    border-radius: 20px;
+    margin-right: 50px;
+    position: relative;
+    bottom: 50px
+}
